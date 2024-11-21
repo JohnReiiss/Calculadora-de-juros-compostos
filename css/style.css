@@ -111,11 +111,12 @@
     }
 
     #calculator h2 {
-        font-size: 20px;
+        font-size: 14px;
     }
 
     #calculator h2::before {
         width: 80px;
+        bottom: 1px;
     }
 
     .imput-field label {
