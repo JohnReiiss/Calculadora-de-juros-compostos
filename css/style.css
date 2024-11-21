@@ -103,3 +103,31 @@
     border-radius: 50px;
     cursor: pointer;
 }
+
+/* RESPONSIVIDADE MEDIA QUERIES */
+
+@media (max-width:768px) {
+    #calculator { padding: 15px; gap: 10px;
+    }
+
+    #calculator h2 {
+        font-size: 20px;
+    }
+
+    #calculator h2::before {
+        width: 80px;
+    }
+
+    .imput-field label {
+        font-size: 13px;
+    }
+
+    #total {
+        font-size: 25px;
+    }
+
+    #calculate {
+        padding: 6px;
+        font-size: 14px;
+    }
+}
