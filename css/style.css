@@ -107,6 +107,10 @@
 /* RESPONSIVIDADE MEDIA QUERIES */
 
 @media (max-width:768px) {
+    #container {
+        padding: 20px;
+    }
+    
     #calculator { padding: 15px; gap: 10px;
     }
 
