@@ -104,6 +104,11 @@
     cursor: pointer;
 }
 
+.myfooter {
+    background-color: transparent !important;
+    text-align: center;
+}
+
 /* RESPONSIVIDADE MEDIA QUERIES */
 
 @media (max-width: 768px) {
