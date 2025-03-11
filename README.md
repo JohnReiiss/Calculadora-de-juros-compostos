@@ -3,6 +3,8 @@ Bem-vindo ao meu projeto de Calculadora de Juros Compostos! Este projeto foi des
 
 ## 📸 Demonstração
 [Calculadora de Juros Compostos](https://johnreiiss.github.io/Calculadora-de-juros-compostos/)
+![Printscreen do projeto](https://github.com/user-attachments/assets/7fa15657-5654-48b6-89cc-1349b71153a7)
+
 ## 🚀 Funcionalidades
 1.Cálculo de Juros Compostos: Insira o valor inicial, taxa de juros, período de tempo e frequência de capitalização para calcular o montante final.
 2.Interface Intuitiva: Design limpo e fácil de usar, com campos claramente identificados.
