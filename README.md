@@ -2,8 +2,7 @@
 Bem-vindo ao meu projeto de Calculadora de Juros Compostos! Este projeto foi desenvolvido para ajudar usuários a calcular de forma simples e eficiente o crescimento de investimentos ao longo do tempo, utilizando a fórmula de juros compostos. A calculadora é intuitiva, responsiva e foi criada com as tecnologias HTML5, CSS3 e JavaScript.
 
 ## 📸 Demonstração
-<img width="950" alt="Calculadora de Juros Compostos" src="https://github.com/JohnReiiss/Calculadora-de-juros-compostos/assets/6eb34e66-0f95-4f83-a39a-e8c1d7c8c606" />
-
+[Calculadora de Juros Compostos](https://johnreiiss.github.io/Calculadora-de-juros-compostos/)
 ## 🚀 Funcionalidades
 1.Cálculo de Juros Compostos: Insira o valor inicial, taxa de juros, período de tempo e frequência de capitalização para calcular o montante final.
 2.Interface Intuitiva: Design limpo e fácil de usar, com campos claramente identificados.
