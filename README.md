@@ -9,12 +9,11 @@ Bem-vindo ao meu projeto de Calculadora de Juros Compostos! Este projeto foi des
 1.Cálculo de Juros Compostos: Insira o valor inicial, taxa de juros, período de tempo e frequência de capitalização para calcular o montante final.
 2.Interface Intuitiva: Design limpo e fácil de usar, com campos claramente identificados.
 3.Responsividade: Funciona perfeitamente em dispositivos móveis e desktops.
-4.Animação e Interatividade: Botões e elementos com efeitos de hover e transições suaves para melhorar a experiência do usuário.
 
 ## 🛠️ Tecnologias Utilizadas
 1.HTML5: Estruturação semântica e organização do conteúdo.
 2.CSS3: Estilização avançada, animações e responsividade.
-3.JavaScript: Lógica de cálculo e interatividade dinâmica.
+3.JavaScript: Lógica de cálculo.
 
 ## 📂 Estrutura do Projeto
 O projeto foi organizado da seguinte forma:
@@ -27,9 +26,9 @@ O projeto foi organizado da seguinte forma:
 1.Acesse o Projeto: [Calculadora de Juros Compostos](https://johnreiiss.github.io/Calculadora-de-juros-compostos/)
 2.Insira os Dados:
 -Valor inicial (capital).
--Taxa de juros anual.
--Período de tempo (em anos).
--Frequência de capitalização (mensal, trimestral, semestral, anual).
+-Taxa de juros ao mês.
+-Período de tempo (em meses).
+-Frequência de capitalização (mensal).
 3.Clique em Calcular: O montante final será exibido instantaneamente.
 
 ## 🌟 Destaques
