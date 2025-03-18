@@ -37,8 +37,10 @@ O projeto foi organizado da seguinte forma:
 3.Funcionalidade Completa: Cálculos precisos e exibição clara dos resultados.
 
 ## 📞 Contato
-Se você gostou deste projeto ou tem alguma sugestão, sinta-se à vontade para entrar em contato comigo:
+Se quiser saber mais sobre meu trabalho ou discutir oportunidades, entre em contato:
 
-Email: johnatan.reiiss@icloud.com
-LinkedIn: [Johnatan dos Santos Reis](https://www.linkedin.com/in/johnatan-dos-santos-reis-945092b7/)
-GitHub: JohnReiiss
+- **E-mail:** johnatan.reiiss@icloud.com
+- **LinkedIn:** [linkedin.com/in/johnatan-hayabusa](https://www.linkedin.com/in/johnatan-hayabusa)
+- **GitHub:** [github.com/JohnReiiss](https://github.com/JohnReiiss)
+
+Obrigado por visitar meu portfólio! Espero que goste do projeto. 🚀
